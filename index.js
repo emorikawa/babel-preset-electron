@@ -23,7 +23,6 @@ module.exports = {
 
     // es2015 not yet implemented:
     require("babel-plugin-transform-es2015-modules-commonjs"),
-
     // The following is still required because babel does not properly
     // recognize when spreads are being used inside of object
     // destructuring (ES7).
