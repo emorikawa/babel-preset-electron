@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-electron",
-  "version": "6.8.0",
+  "version": "0.37.8",
   "description": "Babel preset with all plugins for Electron.",
   "keywords": ["babel", "preset", "plugin", "electron"],
   "author": "Evan Morikawa <evan@evanmorikawa.com>",
@@ -9,7 +9,7 @@
   "repository": "emorikawa/babel-preset-electron",
   "main": "index.js",
   "engines": {
-    "electron": ">= 37.8"
+    "electron": ">= 0.37.8"
   },
   "dependencies": {
     "babel-plugin-transform-es2015-destructuring":    "6.8.x",

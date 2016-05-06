@@ -4,9 +4,9 @@
 
 ## Install
 
-#### Electron 37.8
+#### Electron 0.37.8
 ```sh
-$ npm install --save-dev babel-preset-electron@37.8
+$ npm install --save-dev babel-preset-electron@0.37.8
 ```
 
 ## Usage
